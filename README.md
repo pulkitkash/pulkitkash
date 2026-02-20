@@ -67,3 +67,6 @@
 </div>
 
 ###
+## 🐍 Watch my contributions get eaten by a snake!
+
+![Snake animation](https://raw.githubusercontent.com/pulkitkash/pulkitkash/output/snake.svg)
