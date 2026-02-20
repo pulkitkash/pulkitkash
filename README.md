@@ -1,9 +1,22 @@
-
-<h1 align="center">Hey 👋 I'm Pulkit</h1>
+<h1 align="center">Hey 👋, I'm Pulkit</h1>
 
 ###
 
-<p align="left">📉 From data to decisions | Learning Data Science & Machine Learning<br><br>Skill-Focused<br><br>Python | Pandas | Seaborn | Scikit-learn | TensorFlow | Data Science | ML<br><br>🤖 Machine Learning | 📊 Data Analysis | 🐍 Python | 📈 Visualization<br><br>Data Scientist in training | ML | Deep Learning | NLP | Always learning<br><br>Building ML models & visualizing data | Python | Scikit-learn | Matplotlib</p>
+<p align="center">
+📉 From data to decisions | Learning Data Science & Machine Learning
+</p>
+
+<p align="center">
+🤖 Machine Learning | 📊 Data Analysis | 🐍 Python | 📈 Visualization
+</p>
+
+<p align="center">
+Data Scientist in training | ML | Deep Learning | NLP | Always learning
+</p>
+
+<p align="center">
+Building ML models & visualizing data | Python | Scikit-learn | Matplotlib
+</p>
 
 ###
 
@@ -19,8 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
   <img width="12" />
@@ -44,10 +55,10 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="pulkitkashyap.btechai2428@bpibs.in" target="_blank">
+  <a href="mailto:pulkitkashyap.btechai2428@bpibs.in" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="pul.kit_k" target="_blank">
+  <a href="https://instagram.com/pul.kit_k" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
@@ -66,5 +77,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pulkitkash/pulkitkash/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pulkitkash/pulkitkash/output/pacman-contribution-graph.svg">
 </picture>
-
-###
