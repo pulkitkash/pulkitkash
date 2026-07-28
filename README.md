@@ -27,11 +27,11 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in **Artificial Intelligence**, Delhi Skill and Entrepreneurship University (DSEU), New Delhi — 3rd Year
-- 🔬 Research Intern (Blockchain Security) at **DRDO – SAG**, Ministry of Defence, Govt. of India
+- 🎓 B.Tech in **Artificial Intelligence**, Delhi Skill and Entrepreneurship University (DSEU), New Delhi - 3rd Year
+- 🔬 Research Intern (Blockchain Security) at **DRDO - SAG**, Ministry of Defence, Govt. of India
 - 📊 Focused on **Machine Learning, Deep Learning, MLOps & Data Analysis**
 - 🛠️ Currently building an end-to-end **Smart Loan Approval Prediction System** (SVM, XGBoost, MLflow, DVC, Flask)
-- 📚 Always learning — currently exploring **End-to-End MLOps** and **SQL for Data Science**
+- 📚 Always learning - currently exploring **End-to-End MLOps** and **SQL for Data Science**
 - 💬 Ask me about Python, Scikit-learn, EDA, SQL, or C++
 - ⚡ Fun fact: I like turning messy data into models that actually make decisions
 
@@ -81,7 +81,8 @@
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pulkitkash&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkitkash&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats-eight-rho.vercel.app/api?username=pulkitkash&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=pulkitkash&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
