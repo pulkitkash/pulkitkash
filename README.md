@@ -79,11 +79,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-
-<img height="165" src="https://github-readme-stats-eight-rho.vercel.app/api?username=pulkitkash&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=pulkitkash&layout=compact&theme=tokyonight&hide_border=true" />
-
 ---
 
 ### 🐍 Contribution Snake
